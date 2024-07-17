@@ -1,5 +1,5 @@
 // Java Program to sort an array of 0s, 1s and 2s
-
+// Also known as the Dutch National Flag problem
 class Sort{
     // Function to sort the array of 0s, 1s and 2s
     public static void sort(int a[], int n)
