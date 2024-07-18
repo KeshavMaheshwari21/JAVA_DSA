@@ -1,6 +1,9 @@
 import java.io.*;
 public class Boundary{
  
+ // Traverse the matrix and check for every element if that element lies on the boundary or not, 
+ // if yes then print the element else print space character
+ 
     public static void printBoundary(int a[][], int m,
                                      int n)
     {
