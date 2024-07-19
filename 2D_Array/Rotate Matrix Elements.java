@@ -1,6 +1,6 @@
 import java.util.*;
  
-class GFG
+class Rotate
 {
     static int R = 4;
     static int C = 4;
