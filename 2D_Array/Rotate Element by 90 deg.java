@@ -4,7 +4,7 @@
 // matrix by 90 degrees
 import java.io.*;
  
-class GFG {
+class Rotate {
     // An Inplace function to
     // rotate a N x N matrix
     // by 90 degrees in
